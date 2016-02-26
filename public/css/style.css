@@ -2,3 +2,6 @@ body{
   /* use PT Sans, the custom web font that's loaded in the .html head */
   font-family: 'PT Sans', sans-serif;
 }
+h2{
+    font-family: 'Caudes', serif;
+}
